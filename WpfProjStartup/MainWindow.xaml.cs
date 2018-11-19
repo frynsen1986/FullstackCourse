@@ -22,7 +22,14 @@ namespace WpfProjStartup
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); // Bliver genererer når vi builder.
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            myTxtBox.Content = "Hello World. :)";
+        }
+
+        
     }
 }
