@@ -20,7 +20,9 @@ namespace FirstConsoleApp
                 Console.WriteLine(String.Format("Arg nummer {0} er {1}", idx, args[idx]));
             }
 
+            var minPerson = new FirstConsoleApp.Persons.Person();
 
+            Console.WriteLine("Alder på person: " + minPerson.Age);
         }
     }
 }
