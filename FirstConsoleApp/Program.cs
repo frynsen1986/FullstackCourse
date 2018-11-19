@@ -19,6 +19,8 @@ namespace FirstConsoleApp
             {
                 Console.WriteLine(String.Format("Arg nummer {0} er {1}", idx, args[idx]));
             }
+
+
         }
     }
 }
