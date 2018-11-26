@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfProjStartup", "WpfProjSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthCoffee.MethodTestHarness", "FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness.csproj", "{73B477C8-F456-4AE9-B9D8-1F14E3EBF848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithInheritance", "PlayingWithInheritance\PlayingWithInheritance.csproj", "{30F5AB78-43B9-4C38-A54D-E097CF4EAAD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{73B477C8-F456-4AE9-B9D8-1F14E3EBF848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73B477C8-F456-4AE9-B9D8-1F14E3EBF848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73B477C8-F456-4AE9-B9D8-1F14E3EBF848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F5AB78-43B9-4C38-A54D-E097CF4EAAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F5AB78-43B9-4C38-A54D-E097CF4EAAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F5AB78-43B9-4C38-A54D-E097CF4EAAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F5AB78-43B9-4C38-A54D-E097CF4EAAD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
